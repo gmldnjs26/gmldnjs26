@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a bread-loving developer
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gmldnjs26)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
