@@ -2,7 +2,7 @@
 
 I'm a bread-loving developer
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gmldnjs26&hide_border=true&theme=vue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gmldnjs26&hide_border=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue-dot-js&logoColor=4FC08D)
 ![Nuxt](https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxt-dot-js&logoColor=white)
